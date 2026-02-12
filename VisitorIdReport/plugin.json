@@ -1,0 +1,16 @@
+{
+    "name": "VisitorIdReport",
+    "description": "ビジターIDごとのビジット回数レポート",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=5.0.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lycolia Rizzim",
+            "homepage": "https://lycolia.info"
+        }
+    ]
+}
